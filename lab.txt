@@ -1,0 +1,85 @@
+1. INstall jenkins 
+
+2. Create a jenkins pipleine to deploy a code to an application.
+
+
+3. Add a  new slave to the jenkins and execute the same job on the slave
+
+4. Install any 15 plugins in Jenkins
+
+5. Create a kubernetes cluster and deploy cassandra and kafka PODS
+
+6. create a deployment using helm charts and deploy  new code to thesse PODS in step 5
+
+7. Now Create a terraform template to create 4 Ec2 , 3 VPC, 6 RDS instance , 2 CLoud watch alarms  and setup a  ELB with auto scaling group.
+
+8. now Create 10 python scripts with boto3 to create  any 6 AWS services
+
+9. now Create  a nginx kubernetes cluster with 8 PODS
+
+10 wtite below Python scripts:
+
+               1. wtite a Python script to add 2 numbers
+
+               2. python script to  multiplt 2 numbers
+
+               3. sort an array using python
+
+               4. sort a list using python
+
+               5. write python script to host a basic web server with apache
+
+               6. python script to  install a package
+
+               7. python script to create an Ec2 instace
+
+               8. Python script to create 10 directories in /tmp called fish1 to fish10
+
+               9. python script to explain difference between python 2 and 3?
+
+               10. Python script to create 10docker contaiiners /
+
+
+
+11. Complete dcoker questions below
+
+               1. try all comands in https://try.github.io/levels/1/challenges/1
+
+               2.  Create a github local account
+
+               3. Create a local git repo and add 4 files .
+
+               4.merge it to  central repo
+
+               5. now  modify those 4 files and commit and send it to the repo
+
+               6. now create a new branch  called fish and add 4 more files to fish
+
+               7.now   Create a  new brach called  tank and add 5 more files toit
+
+               8. now demonstrate  the difference  betwene git merge and rebase on fish and tank
+
+               9. now do a git push to remote repo
+
+               10 . now  review git log and observe the changes
+
+               11. now revert back to previous commit and push it to github
+
+               12. now  Create a new branch called goat
+
+               13. now delete goat branch
+
+               14. now  add a new file to github from your desktop
+
+               15. now pull that to the local linxu machine  and  view that file on your linux machine.
+
+12. Execute below commands :
+
+
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/cluster-interactive/
+
+
+
+13. Create NAgios XI and setup alerting for 10  linxu machines for CPU and memory alerts.
+
